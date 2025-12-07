@@ -1,0 +1,164 @@
+[
+    {
+        "NIM": "122400001",
+        "Nama": "Aulia",
+        "Tugas": 85,
+        "UTS": 78,
+        "UAS": 90,
+        "Nilai Akhir": 84.9,
+        "Grade": "B"
+    },
+    {
+        "NIM": "122400002",
+        "Nama": "Bintang",
+        "Tugas": 75,
+        "UTS": 70,
+        "UAS": 80,
+        "Nilai Akhir": 75.5,
+        "Grade": "B"
+    },
+    {
+        "NIM": "122400003",
+        "Nama": "Cahya",
+        "Tugas": 90,
+        "UTS": 88,
+        "UAS": 92,
+        "Nilai Akhir": 90.2,
+        "Grade": "A"
+    },
+    {
+        "NIM": "122400004",
+        "Nama": "Dewi",
+        "Tugas": 65,
+        "UTS": 60,
+        "UAS": 72,
+        "Nilai Akhir": 66.3,
+        "Grade": "C"
+    },
+    {
+        "NIM": "122400005",
+        "Nama": "Eka",
+        "Tugas": 80,
+        "UTS": 75,
+        "UAS": 85,
+        "Nilai Akhir": 80.5,
+        "Grade": "B"
+    },
+    {
+        "NIM": "122400006",
+        "Nama": "Farhan",
+        "Tugas": 92,
+        "UTS": 90,
+        "UAS": 95,
+        "Nilai Akhir": 92.6,
+        "Grade": "A"
+    },
+    {
+        "NIM": "122400007",
+        "Nama": "Gita",
+        "Tugas": 70,
+        "UTS": 68,
+        "UAS": 75,
+        "Nilai Akhir": 71.4,
+        "Grade": "C"
+    },
+    {
+        "NIM": "122400008",
+        "Nama": "Hadi",
+        "Tugas": 88,
+        "UTS": 85,
+        "UAS": 90,
+        "Nilai Akhir": 87.9,
+        "Grade": "A"
+    },
+    {
+        "NIM": "122400009",
+        "Nama": "Intan",
+        "Tugas": 95,
+        "UTS": 92,
+        "UAS": 98,
+        "Nilai Akhir": 95.3,
+        "Grade": "A"
+    },
+    {
+        "NIM": "122400010",
+        "Nama": "Joko",
+        "Tugas": 60,
+        "UTS": 55,
+        "UAS": 65,
+        "Nilai Akhir": 60.5,
+        "Grade": "D"
+    },
+    {
+        "NIM": "122400011",
+        "Nama": "Kirana",
+        "Tugas": 83,
+        "UTS": 80,
+        "UAS": 88,
+        "Nilai Akhir": 84.1,
+        "Grade": "B"
+    },
+    {
+        "NIM": "122400012",
+        "Nama": "Lutfi",
+        "Tugas": 78,
+        "UTS": 74,
+        "UAS": 82,
+        "Nilai Akhir": 78.4,
+        "Grade": "B"
+    },
+    {
+        "NIM": "122400013",
+        "Nama": "Maya",
+        "Tugas": 86,
+        "UTS": 84,
+        "UAS": 89,
+        "Nilai Akhir": 86.6,
+        "Grade": "A"
+    },
+    {
+        "NIM": "122400014",
+        "Nama": "Naufal",
+        "Tugas": 72,
+        "UTS": 68,
+        "UAS": 78,
+        "Nilai Akhir": 73.2,
+        "Grade": "C"
+    },
+    {
+        "NIM": "122400015",
+        "Nama": "Olivia",
+        "Tugas": 94,
+        "UTS": 90,
+        "UAS": 96,
+        "Nilai Akhir": 93.6,
+        "Grade": "A"
+    },
+    {
+        "NIM": "122400016",
+        "Nama": "Prasetyo",
+        "Tugas": 69,
+        "UTS": 65,
+        "UAS": 70,
+        "Nilai Akhir": 68.2,
+        "Grade": "C"
+    },
+    {
+        "NIM": "122400017",
+        "Nama": "Queena",
+        "Tugas": 91,
+        "UTS": 88,
+        "UAS": 94,
+        "Nilai Akhir": 91.3,
+        "Grade": "A"
+    },
+    {
+        "NIM": "122400018",
+        "Nama": "Rama",
+        "Tugas": 77,
+        "UTS": 73,
+        "UAS": 81,
+        "Nilai Akhir": 77.4,
+        "Grade": "B"
+    }
+]

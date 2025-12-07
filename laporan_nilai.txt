@@ -1,0 +1,27 @@
+LAPORAN NILAI MAHASISWA
+========================
+
+Rata-rata nilai akhir : 80.99
+Nilai tertinggi      : 95.30
+Nilai terendah       : 60.50
+
+Daftar Mahasiswa (sorted by nilai akhir):
+
+122400009 - Intan - 95.30 (A)
+122400015 - Olivia - 93.60 (A)
+122400006 - Farhan - 92.60 (A)
+122400017 - Queena - 91.30 (A)
+122400003 - Cahya - 90.20 (A)
+122400008 - Hadi - 87.90 (A)
+122400013 - Maya - 86.60 (A)
+122400001 - Aulia - 84.90 (B)
+122400011 - Kirana - 84.10 (B)
+122400005 - Eka - 80.50 (B)
+122400012 - Lutfi - 78.40 (B)
+122400018 - Rama - 77.40 (B)
+122400002 - Bintang - 75.50 (B)
+122400014 - Naufal - 73.20 (C)
+122400007 - Gita - 71.40 (C)
+122400016 - Prasetyo - 68.20 (C)
+122400004 - Dewi - 66.30 (C)
+122400010 - Joko - 60.50 (D)
